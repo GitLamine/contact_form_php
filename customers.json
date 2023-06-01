@@ -1,0 +1,26 @@
+[
+    {
+        "lastname": "Sila",
+        "firstname": "Lam",
+        "birthdate": "1994-07-14",
+        "email": "willi.billi@outlook.fr",
+        "password": "dzdzdzd",
+        "newsletter": "1"
+    },
+    {
+        "lastname": "Sila",
+        "firstname": "Lam",
+        "birthdate": "1994-07-14",
+        "email": "willi.billi@outlook.fr",
+        "password": "dzdzdzd",
+        "newsletter": "1"
+    },
+    {
+        "lastname": "heuyhey",
+        "firstname": "whywhy",
+        "birthdate": "2022-12-28",
+        "email": "",
+        "password": "password",
+        "newsletter": "1"
+    }
+]
